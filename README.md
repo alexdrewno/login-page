@@ -1,5 +1,6 @@
 # Login Page
-
+To run:
+``` yarn start ```
 ## Technology Used
 * React
 * Yarn
