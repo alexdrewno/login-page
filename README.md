@@ -6,6 +6,12 @@ To run:
 * Yarn
 * Flexbox
 
+## Description
+An example login page created from scratch
+
+## Preview
+![Preview](https://github.com/kirbec/login-page/blob/main/public/Preview.png)
+
 ## Improvements
 Things I could improve in the future:
 * Changing the color of the border of the textbox to Red when there is an error
